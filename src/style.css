@@ -33,6 +33,8 @@ body {
     background-color: aquamarine;
     border: none;
     cursor: pointer;
+    /* align-items: center; */
+    text-align: center;
 }
 
 .play-button:hover {
@@ -40,6 +42,6 @@ body {
 }
 
 .timer-display {
-    color: red;
-    margin-top: 20px;
+    color: yellowgreen;
+    margin-top: 10px;
 }
